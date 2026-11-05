@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.hotel"},{"l":"com.hotel.excepciones"},{"l":"com.hotel.modelo"},{"l":"com.hotel.persistencia"}];updateSearchResults();

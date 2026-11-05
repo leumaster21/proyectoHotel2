@@ -1,0 +1,8 @@
+target/
+out/
+*.class
+
+# Base de datos local H2
+datos/
+*.mv.db
+*.trace.db
